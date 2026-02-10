@@ -9,5 +9,7 @@ public class Arthimatic {
         System.out.println(x*y);
         System.out.println(x/y);//  This gives an output of 21 because int data type stores only Integer values.
         // Decimal values cant be stored.
+        
     }
 }
+
