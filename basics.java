@@ -1,5 +1,7 @@
 package BASICS;
 
+
+
 //class PW{
 //    public static void main(String args[]){
 //        System.out.print("I am Vijay");
@@ -14,4 +16,5 @@ class PW{
         System.out.println("Iam Vijay");// Using ln make the code to move to next line.
         System.out.println("Iam an aspiring data engineer");
     }
+
 }
